@@ -35,3 +35,22 @@ C:\Users\Isi11\Documents\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\Registr
 C:\Users\Isi11\Documents\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
 C:\Users\Isi11\Documents\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Isi11\Documents\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.SuggestedBindingRedirects.cache
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb

@@ -101,7 +101,11 @@
       <DependentUpon>ADOConexion.tt</DependentUpon>
     </Compile>
     <Compile Include="dao\DCiudades.vb" />
-    <Compile Include="dao\Module1.vb" />
+    <Compile Include="DSDBPrueba26.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSDBPrueba26.xsd</DependentUpon>
+    </Compile>
     <Compile Include="entidades\Ciudades.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
@@ -161,6 +165,17 @@
     <None Include="ADOConexion.edmx.diagram">
       <DependentUpon>ADOConexion.edmx</DependentUpon>
     </None>
+    <None Include="DSDBPrueba26.xsc">
+      <DependentUpon>DSDBPrueba26.xsd</DependentUpon>
+    </None>
+    <None Include="DSDBPrueba26.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSDBPrueba26.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSDBPrueba26.xss">
+      <DependentUpon>DSDBPrueba26.xsd</DependentUpon>
+    </None>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -184,6 +199,9 @@
       <DependentUpon>ADOConexion.edmx</DependentUpon>
       <LastGenOutput>ADOConexion.vb</LastGenOutput>
     </Content>
+    <Content Include="iconos\agregar.png" />
+    <Content Include="iconos\editar.png" />
+    <Content Include="iconos\eliminar.png" />
     <Content Include="iconos\imgAgregar.png" />
     <Content Include="iconos\imgAgregarUser.png" />
     <Content Include="iconos\imgBuscar.png" />
@@ -193,6 +211,11 @@
     <Content Include="iconos\imgEliminarUser.png" />
     <Content Include="iconos\imgFiltrar.png" />
     <Content Include="iconos\imgLimpiarCampos.png" />
+    <Content Include="iconos\limpiar.png" />
+    <None Include="Resources\limpiar.png" />
+    <None Include="Resources\eliminar.png" />
+    <None Include="Resources\editar.png" />
+    <None Include="Resources\agregar.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
