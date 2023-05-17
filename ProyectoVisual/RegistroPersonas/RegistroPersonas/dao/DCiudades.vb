@@ -107,5 +107,18 @@ Public Class DCiudades
         Return resultado
     End Function
 
+    Public Function BuscarXNombre(ByVal nombre As String) As DataSet
+        Dim ds As New DataSet
+        Try
+            Dim tsql As String = "Select * From Ciudad Where nombreCiudad like @nombreCiudad"
+            Dim conn As New SqlConnection(StrConnection)
+            Dim da As New SqlDataAdapter(tsql, conn)
+            da.SelectCommand.Parameters.AddWithValue("@nombreCiudad", nombre)
+            da.Fill(ds)
+        Catch ex As Exception
+
+        End Try
+        Return ds
+    End Function
 
 End Class

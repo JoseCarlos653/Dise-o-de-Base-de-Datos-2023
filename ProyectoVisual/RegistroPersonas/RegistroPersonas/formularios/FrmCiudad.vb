@@ -96,4 +96,12 @@
         TxtNombre.Text = DgvRegistros.Rows(fila).Cells(1).Value
     End Sub
 
+    Private Sub BtnBuscar_Click(sender As Object, e As EventArgs) Handles BtnBuscar.Click
+        Dim ds As New DataSet
+        Dim dao As New DCiudades
+        ds = dao.BuscarXNombre(TxtValor.Text.Trim)
+        DgvRegistros.DataSource = ds.Tables(0)
+        DgvRegistros.Refresh()
+
+    End Sub
 End Class
