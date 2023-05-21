@@ -4,7 +4,7 @@
         Dim idCiudad As New DCiudades
         DgvRegistros.DataSource = idCiudad.MostrarRegistros.Tables(0)
         DgvRegistros.Refresh()
-        GrbRegistros.Text = "Registros Guardados: " & DgvRegistros.Rows.Count - 1
+        GrbRegistros.Text = "Registros Guardados: " & DgvRegistros.Rows.Count
 
     End Sub
 
@@ -37,8 +37,6 @@
         Catch ex As Exception
             MsgBox("Error al intentar guardar el registro..." & ex.Message, MsgBoxStyle.Critical, "Ciudades")
         End Try
-
-
 
     End Sub
 
