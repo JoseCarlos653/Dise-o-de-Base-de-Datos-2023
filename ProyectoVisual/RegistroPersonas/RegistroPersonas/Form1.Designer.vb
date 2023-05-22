@@ -66,13 +66,13 @@ Partial Class Form1
         'PersonaToolStripMenuItem
         '
         Me.PersonaToolStripMenuItem.Name = "PersonaToolStripMenuItem"
-        Me.PersonaToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.PersonaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.PersonaToolStripMenuItem.Text = "Ciudad"
         '
         'PersonaToolStripMenuItem1
         '
         Me.PersonaToolStripMenuItem1.Name = "PersonaToolStripMenuItem1"
-        Me.PersonaToolStripMenuItem1.Size = New System.Drawing.Size(116, 22)
+        Me.PersonaToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
         Me.PersonaToolStripMenuItem1.Text = "Persona"
         '
         'Form1
@@ -84,7 +84,7 @@ Partial Class Form1
         Me.Controls.Add(Me.MenuStrip1)
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "Form1"
         Me.Text = "Registro Persona"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized

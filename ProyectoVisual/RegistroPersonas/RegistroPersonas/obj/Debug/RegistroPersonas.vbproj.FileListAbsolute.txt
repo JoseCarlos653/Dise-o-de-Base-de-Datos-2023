@@ -54,3 +54,4 @@ D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\Reg
 D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
 D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
 D:\Programacion\Visual Basic\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Documents\DBD\Dise-o-de-Base-de-Datos-2023\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmPersonas.resources
