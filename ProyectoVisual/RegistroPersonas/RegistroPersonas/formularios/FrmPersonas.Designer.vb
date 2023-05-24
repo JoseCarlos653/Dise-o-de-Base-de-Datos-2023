@@ -77,27 +77,27 @@ Partial Class FrmPersonas
         IdPersonaLabel.Location = New System.Drawing.Point(71, 66)
         IdPersonaLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         IdPersonaLabel.Name = "IdPersonaLabel"
-        IdPersonaLabel.Size = New System.Drawing.Size(83, 19)
+        IdPersonaLabel.Size = New System.Drawing.Size(97, 23)
         IdPersonaLabel.TabIndex = 1
         IdPersonaLabel.Text = "id Persona:"
         '
         'PrimerNombreLabel
         '
         PrimerNombreLabel.AutoSize = True
-        PrimerNombreLabel.Location = New System.Drawing.Point(365, 66)
+        PrimerNombreLabel.Location = New System.Drawing.Point(407, 64)
         PrimerNombreLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         PrimerNombreLabel.Name = "PrimerNombreLabel"
-        PrimerNombreLabel.Size = New System.Drawing.Size(119, 19)
+        PrimerNombreLabel.Size = New System.Drawing.Size(141, 23)
         PrimerNombreLabel.TabIndex = 3
         PrimerNombreLabel.Text = "primer Nombre:"
         '
         'SegundoNombreLabel
         '
         SegundoNombreLabel.AutoSize = True
-        SegundoNombreLabel.Location = New System.Drawing.Point(702, 66)
+        SegundoNombreLabel.Location = New System.Drawing.Point(801, 66)
         SegundoNombreLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         SegundoNombreLabel.Name = "SegundoNombreLabel"
-        SegundoNombreLabel.Size = New System.Drawing.Size(130, 19)
+        SegundoNombreLabel.Size = New System.Drawing.Size(154, 23)
         SegundoNombreLabel.TabIndex = 5
         SegundoNombreLabel.Text = "segundo Nombre:"
         '
@@ -107,57 +107,57 @@ Partial Class FrmPersonas
         PrimerApellidoLabel.Location = New System.Drawing.Point(31, 127)
         PrimerApellidoLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         PrimerApellidoLabel.Name = "PrimerApellidoLabel"
-        PrimerApellidoLabel.Size = New System.Drawing.Size(120, 19)
+        PrimerApellidoLabel.Size = New System.Drawing.Size(143, 23)
         PrimerApellidoLabel.TabIndex = 7
         PrimerApellidoLabel.Text = "primer Apellido:"
         '
         'SegundoApellidoLabel
         '
         SegundoApellidoLabel.AutoSize = True
-        SegundoApellidoLabel.Location = New System.Drawing.Point(353, 126)
+        SegundoApellidoLabel.Location = New System.Drawing.Point(395, 124)
         SegundoApellidoLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         SegundoApellidoLabel.Name = "SegundoApellidoLabel"
-        SegundoApellidoLabel.Size = New System.Drawing.Size(131, 19)
+        SegundoApellidoLabel.Size = New System.Drawing.Size(156, 23)
         SegundoApellidoLabel.TabIndex = 9
         SegundoApellidoLabel.Text = "segundo Apellido:"
         '
         'FechaNacLabel
         '
         FechaNacLabel.AutoSize = True
-        FechaNacLabel.Location = New System.Drawing.Point(753, 123)
+        FechaNacLabel.Location = New System.Drawing.Point(862, 126)
         FechaNacLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         FechaNacLabel.Name = "FechaNacLabel"
-        FechaNacLabel.Size = New System.Drawing.Size(79, 19)
+        FechaNacLabel.Size = New System.Drawing.Size(93, 23)
         FechaNacLabel.TabIndex = 11
         FechaNacLabel.Text = "fecha Nac:"
         '
         'SexoLabel
         '
         SexoLabel.AutoSize = True
-        SexoLabel.Location = New System.Drawing.Point(108, 189)
+        SexoLabel.Location = New System.Drawing.Point(118, 189)
         SexoLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         SexoLabel.Name = "SexoLabel"
-        SexoLabel.Size = New System.Drawing.Size(44, 19)
+        SexoLabel.Size = New System.Drawing.Size(50, 23)
         SexoLabel.TabIndex = 13
         SexoLabel.Text = "sexo:"
         '
         'TelefonoLabel
         '
         TelefonoLabel.AutoSize = True
-        TelefonoLabel.Location = New System.Drawing.Point(420, 189)
+        TelefonoLabel.Location = New System.Drawing.Point(462, 187)
         TelefonoLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         TelefonoLabel.Name = "TelefonoLabel"
-        TelefonoLabel.Size = New System.Drawing.Size(69, 19)
+        TelefonoLabel.Size = New System.Drawing.Size(82, 23)
         TelefonoLabel.TabIndex = 15
         TelefonoLabel.Text = "telefono:"
         '
         'CorreoLabel
         '
         CorreoLabel.AutoSize = True
-        CorreoLabel.Location = New System.Drawing.Point(780, 189)
+        CorreoLabel.Location = New System.Drawing.Point(889, 187)
         CorreoLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         CorreoLabel.Name = "CorreoLabel"
-        CorreoLabel.Size = New System.Drawing.Size(58, 19)
+        CorreoLabel.Size = New System.Drawing.Size(66, 23)
         CorreoLabel.TabIndex = 17
         CorreoLabel.Text = "correo:"
         '
@@ -167,17 +167,17 @@ Partial Class FrmPersonas
         IdCiudadLabel.Location = New System.Drawing.Point(79, 247)
         IdCiudadLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         IdCiudadLabel.Name = "IdCiudadLabel"
-        IdCiudadLabel.Size = New System.Drawing.Size(77, 19)
+        IdCiudadLabel.Size = New System.Drawing.Size(93, 23)
         IdCiudadLabel.TabIndex = 19
         IdCiudadLabel.Text = "id Ciudad:"
         '
         'DireccionLabel
         '
         DireccionLabel.AutoSize = True
-        DireccionLabel.Location = New System.Drawing.Point(413, 247)
+        DireccionLabel.Location = New System.Drawing.Point(395, 243)
         DireccionLabel.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         DireccionLabel.Name = "DireccionLabel"
-        DireccionLabel.Size = New System.Drawing.Size(75, 19)
+        DireccionLabel.Size = New System.Drawing.Size(88, 23)
         DireccionLabel.TabIndex = 21
         DireccionLabel.Text = "direccion:"
         '
@@ -205,90 +205,90 @@ Partial Class FrmPersonas
         'IdPersonaTextBox
         '
         Me.IdPersonaTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "idPersona", True))
-        Me.IdPersonaTextBox.Location = New System.Drawing.Point(159, 61)
+        Me.IdPersonaTextBox.Location = New System.Drawing.Point(176, 63)
         Me.IdPersonaTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.IdPersonaTextBox.Name = "IdPersonaTextBox"
-        Me.IdPersonaTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.IdPersonaTextBox.Size = New System.Drawing.Size(132, 30)
         Me.IdPersonaTextBox.TabIndex = 2
         '
         'PrimerNombreTextBox
         '
         Me.PrimerNombreTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "primerNombre", True))
-        Me.PrimerNombreTextBox.Location = New System.Drawing.Point(492, 61)
+        Me.PrimerNombreTextBox.Location = New System.Drawing.Point(556, 59)
         Me.PrimerNombreTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.PrimerNombreTextBox.Name = "PrimerNombreTextBox"
-        Me.PrimerNombreTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.PrimerNombreTextBox.Size = New System.Drawing.Size(132, 30)
         Me.PrimerNombreTextBox.TabIndex = 4
         '
         'SegundoNombreTextBox
         '
         Me.SegundoNombreTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "segundoNombre", True))
-        Me.SegundoNombreTextBox.Location = New System.Drawing.Point(841, 61)
+        Me.SegundoNombreTextBox.Location = New System.Drawing.Point(963, 63)
         Me.SegundoNombreTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.SegundoNombreTextBox.Name = "SegundoNombreTextBox"
-        Me.SegundoNombreTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.SegundoNombreTextBox.Size = New System.Drawing.Size(132, 30)
         Me.SegundoNombreTextBox.TabIndex = 6
         '
         'PrimerApellidoTextBox
         '
         Me.PrimerApellidoTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "primerApellido", True))
-        Me.PrimerApellidoTextBox.Location = New System.Drawing.Point(159, 123)
+        Me.PrimerApellidoTextBox.Location = New System.Drawing.Point(176, 125)
         Me.PrimerApellidoTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.PrimerApellidoTextBox.Name = "PrimerApellidoTextBox"
-        Me.PrimerApellidoTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.PrimerApellidoTextBox.Size = New System.Drawing.Size(132, 30)
         Me.PrimerApellidoTextBox.TabIndex = 8
         '
         'SegundoApellidoTextBox
         '
         Me.SegundoApellidoTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "segundoApellido", True))
-        Me.SegundoApellidoTextBox.Location = New System.Drawing.Point(492, 123)
+        Me.SegundoApellidoTextBox.Location = New System.Drawing.Point(556, 121)
         Me.SegundoApellidoTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.SegundoApellidoTextBox.Name = "SegundoApellidoTextBox"
-        Me.SegundoApellidoTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.SegundoApellidoTextBox.Size = New System.Drawing.Size(132, 30)
         Me.SegundoApellidoTextBox.TabIndex = 10
         '
         'FechaNacDateTimePicker
         '
         Me.FechaNacDateTimePicker.DataBindings.Add(New System.Windows.Forms.Binding("Value", Me.PersonaBindingSource, "fechaNac", True))
-        Me.FechaNacDateTimePicker.Location = New System.Drawing.Point(841, 117)
+        Me.FechaNacDateTimePicker.Location = New System.Drawing.Point(963, 119)
         Me.FechaNacDateTimePicker.Margin = New System.Windows.Forms.Padding(4)
         Me.FechaNacDateTimePicker.Name = "FechaNacDateTimePicker"
-        Me.FechaNacDateTimePicker.Size = New System.Drawing.Size(265, 26)
+        Me.FechaNacDateTimePicker.Size = New System.Drawing.Size(265, 30)
         Me.FechaNacDateTimePicker.TabIndex = 12
         '
         'TelefonoTextBox
         '
         Me.TelefonoTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "telefono", True))
-        Me.TelefonoTextBox.Location = New System.Drawing.Point(492, 184)
+        Me.TelefonoTextBox.Location = New System.Drawing.Point(556, 182)
         Me.TelefonoTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.TelefonoTextBox.Name = "TelefonoTextBox"
-        Me.TelefonoTextBox.Size = New System.Drawing.Size(132, 26)
+        Me.TelefonoTextBox.Size = New System.Drawing.Size(132, 30)
         Me.TelefonoTextBox.TabIndex = 16
         '
         'CorreoTextBox
         '
         Me.CorreoTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "correo", True))
-        Me.CorreoTextBox.Location = New System.Drawing.Point(841, 184)
+        Me.CorreoTextBox.Location = New System.Drawing.Point(963, 186)
         Me.CorreoTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.CorreoTextBox.Name = "CorreoTextBox"
-        Me.CorreoTextBox.Size = New System.Drawing.Size(265, 26)
+        Me.CorreoTextBox.Size = New System.Drawing.Size(265, 30)
         Me.CorreoTextBox.TabIndex = 18
         '
         'DireccionTextBox
         '
         Me.DireccionTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.PersonaBindingSource, "direccion", True))
-        Me.DireccionTextBox.Location = New System.Drawing.Point(492, 243)
+        Me.DireccionTextBox.Location = New System.Drawing.Point(496, 239)
         Me.DireccionTextBox.Margin = New System.Windows.Forms.Padding(4)
         Me.DireccionTextBox.Multiline = True
         Me.DireccionTextBox.Name = "DireccionTextBox"
         Me.DireccionTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.DireccionTextBox.Size = New System.Drawing.Size(346, 87)
+        Me.DireccionTextBox.Size = New System.Drawing.Size(383, 87)
         Me.DireccionTextBox.TabIndex = 22
         '
         'ActivoCheckBox
         '
         Me.ActivoCheckBox.DataBindings.Add(New System.Windows.Forms.Binding("CheckState", Me.PersonaBindingSource, "activo", True))
-        Me.ActivoCheckBox.Location = New System.Drawing.Point(967, 243)
+        Me.ActivoCheckBox.Location = New System.Drawing.Point(963, 247)
         Me.ActivoCheckBox.Margin = New System.Windows.Forms.Padding(4)
         Me.ActivoCheckBox.Name = "ActivoCheckBox"
         Me.ActivoCheckBox.Size = New System.Drawing.Size(139, 35)
@@ -303,7 +303,7 @@ Partial Class FrmPersonas
         Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.btnNuevo, Me.BtnGuardar, Me.BtnEditar, Me.BtnEliminar})
         Me.ToolStrip1.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip1.Name = "ToolStrip1"
-        Me.ToolStrip1.Size = New System.Drawing.Size(1153, 27)
+        Me.ToolStrip1.Size = New System.Drawing.Size(1312, 27)
         Me.ToolStrip1.TabIndex = 25
         Me.ToolStrip1.Text = "ToolStrip1"
         '
@@ -313,7 +313,7 @@ Partial Class FrmPersonas
         Me.btnNuevo.Image = Global.RegistroPersonas.My.Resources.Resources.limpiar
         Me.btnNuevo.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.btnNuevo.Name = "btnNuevo"
-        Me.btnNuevo.Size = New System.Drawing.Size(24, 24)
+        Me.btnNuevo.Size = New System.Drawing.Size(29, 24)
         Me.btnNuevo.Text = "Nuevo"
         '
         'BtnGuardar
@@ -322,7 +322,7 @@ Partial Class FrmPersonas
         Me.BtnGuardar.Image = Global.RegistroPersonas.My.Resources.Resources.agregar
         Me.BtnGuardar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.BtnGuardar.Name = "BtnGuardar"
-        Me.BtnGuardar.Size = New System.Drawing.Size(24, 24)
+        Me.BtnGuardar.Size = New System.Drawing.Size(29, 24)
         Me.BtnGuardar.Text = "Guardar"
         '
         'BtnEditar
@@ -331,7 +331,7 @@ Partial Class FrmPersonas
         Me.BtnEditar.Image = Global.RegistroPersonas.My.Resources.Resources.editar
         Me.BtnEditar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.BtnEditar.Name = "BtnEditar"
-        Me.BtnEditar.Size = New System.Drawing.Size(24, 24)
+        Me.BtnEditar.Size = New System.Drawing.Size(29, 24)
         Me.BtnEditar.Text = "Editar"
         '
         'BtnEliminar
@@ -340,35 +340,35 @@ Partial Class FrmPersonas
         Me.BtnEliminar.Image = Global.RegistroPersonas.My.Resources.Resources.eliminar
         Me.BtnEliminar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.BtnEliminar.Name = "BtnEliminar"
-        Me.BtnEliminar.Size = New System.Drawing.Size(24, 24)
+        Me.BtnEliminar.Size = New System.Drawing.Size(29, 24)
         Me.BtnEliminar.Text = "Eliminar"
         '
         'CmbSexo
         '
         Me.CmbSexo.FormattingEnabled = True
         Me.CmbSexo.Items.AddRange(New Object() {"Hombre", "Mujer"})
-        Me.CmbSexo.Location = New System.Drawing.Point(159, 183)
+        Me.CmbSexo.Location = New System.Drawing.Point(176, 185)
         Me.CmbSexo.Margin = New System.Windows.Forms.Padding(4)
         Me.CmbSexo.Name = "CmbSexo"
-        Me.CmbSexo.Size = New System.Drawing.Size(132, 27)
+        Me.CmbSexo.Size = New System.Drawing.Size(132, 31)
         Me.CmbSexo.TabIndex = 26
         '
         'CmbIdCiudad
         '
         Me.CmbIdCiudad.FormattingEnabled = True
         Me.CmbIdCiudad.Items.AddRange(New Object() {"Hombre", "Mujer"})
-        Me.CmbIdCiudad.Location = New System.Drawing.Point(159, 244)
+        Me.CmbIdCiudad.Location = New System.Drawing.Point(176, 246)
         Me.CmbIdCiudad.Margin = New System.Windows.Forms.Padding(4)
         Me.CmbIdCiudad.Name = "CmbIdCiudad"
-        Me.CmbIdCiudad.Size = New System.Drawing.Size(132, 27)
+        Me.CmbIdCiudad.Size = New System.Drawing.Size(132, 31)
         Me.CmbIdCiudad.TabIndex = 27
         '
         'FrmPersonas
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 19.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 23.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(3, Byte), Integer), CType(CType(52, Byte), Integer), CType(CType(111, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(1153, 658)
+        Me.ClientSize = New System.Drawing.Size(1312, 658)
         Me.Controls.Add(Me.CmbIdCiudad)
         Me.Controls.Add(Me.CmbSexo)
         Me.Controls.Add(Me.ToolStrip1)
